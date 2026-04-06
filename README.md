@@ -11,7 +11,7 @@
 
 - 🌱 I'm currently learning **Machine Learning & AI**
 
-- 💬 Ask me about **Python, Flutter, Flask, Next.js and AI tools**
+- ❓ Ask me about **AI tools, prompt engineering and automation**
 
 - 📫 How to reach me: **[yusufsalihakcayir.com](https://yusufsalihakcayir.com)**
 
