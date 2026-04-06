@@ -99,7 +99,6 @@
 | Project | Stack | Description |
 |---------|-------|-------------|
 | 🎓 KBÜ Sınav Takvimi | Flask · Railway · SendGrid | Personalized exam schedule web app for students |
-| ✈️ GezGez | Flutter · Claude AI · Railway | AI-powered travel guide for Istanbul neighborhoods |
 | 🌐 Portfolio | Next.js · Tailwind CSS · Vercel | Personal portfolio website |
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=80&section=footer)
