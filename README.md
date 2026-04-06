@@ -19,7 +19,7 @@
 
 - ✍️ I write on **[Medium](https://medium.com/@akcayiryusufsalih)** about tech and projects
 
-- ⚡ Fun fact: **If a man hasn’t discovered something that he will die for, he isn’t fit to live**
+- ⚡ Fun fact: **" If a man hasn’t discovered something that he will die for, he isn’t fit to live. "**
 
 <br clear="right"/>
 
