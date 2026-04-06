@@ -37,6 +37,9 @@
   <a href="https://instagram.com/yusufsal1h" target="blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" height="30" />
   </a>
+  <a href="mailto:akcayiryusufsalih@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" height="30" />
+  </a>
 </p>
 
 ---
