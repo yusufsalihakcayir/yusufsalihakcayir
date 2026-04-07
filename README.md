@@ -25,19 +25,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://yusufsalihakcayir.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://yusufsalihakcayir.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" height="30" />
   </a>
-  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all/?usecase=PEOPLE_FOLLOWS&followMember=yusuf-salih-akcayir" target="_blank" rel="noopener noreferrer">
+  <a href="https://linkedin.com/in/yusuf-salih-akcayir" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" />
   </a>
-  <a href="https://medium.com/@akcayiryusufsalih" target="_blank" rel="noopener noreferrer">
+  <a href="https://medium.com/@akcayiryusufsalih" target="blank">
     <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium" height="30" />
   </a>
-  <a href="https://instagram.com/yusufsal1h" target="_blank" rel="noopener noreferrer">
+  <a href="https://instagram.com/yusufsal1h" target="blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" height="30" />
   </a>
-  <a href="mailto:akcayiryusufsalih@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:akcayiryusufsalih@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" height="30" />
   </a>
 </p>
@@ -46,40 +46,40 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://flutter.dev" target="_blank" rel="noopener noreferrer">
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer">
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   </a>
-  <a href="https://postman.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
   </a>
 </p>
