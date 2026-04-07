@@ -28,7 +28,7 @@
   <a href="https://yusufsalihakcayir.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" height="30" />
   </a>
-  <a href="https://linkedin.com/in/yusuf-salih-a-b27a4b18a" target="blank">
+  <a href="https://linkedin.com/in/yusuf-salih-akcayir" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" />
   </a>
   <a href="https://medium.com/@akcayiryusufsalih" target="blank">
