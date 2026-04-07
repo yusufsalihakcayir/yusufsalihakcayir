@@ -28,7 +28,7 @@
   <a href="https://yusufsalihakcayir.com" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" height="30" />
   </a>
-  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=yusuf-salih-akcayir" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all/?usecase=PEOPLE_FOLLOWS&followMember=yusuf-salih-akcayir" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" />
   </a>
   <a href="https://medium.com/@akcayiryusufsalih" target="_blank" rel="noopener noreferrer">
